@@ -19,3 +19,9 @@ client_scripts {
 server_scripts {
     'server/server.lua'
 }
+
+dependencies {
+    'ox_lib',
+    'ox_inventory',
+    'ox_target'
+}
